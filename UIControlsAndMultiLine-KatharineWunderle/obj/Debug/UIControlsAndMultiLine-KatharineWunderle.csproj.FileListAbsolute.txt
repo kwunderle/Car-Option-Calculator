@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\bin\Debug\UIControlsAndMultiLine-KatharineWunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\bin\Debug\UIControlsAndMultiLine-KatharineWunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\bin\Debug\UIControlsAndMultiLine-KatharineWunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine-KatharineWunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine_KatharineWunderle.Form1.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine_KatharineWunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine-KatharineWunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine-KatharineWunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine-KatharineWunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 8\UserInterface - Katharine Wunderle\UIControlsAndMultiLine-KatharineWunderle\obj\Debug\UIControlsAndMultiLine-KatharineWunderle.pdb
